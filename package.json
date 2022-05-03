@@ -1,0 +1,12 @@
+{
+  "name": "html-list-sorting",
+  "version": "1.0.0",
+  "scripts": {
+    "compile-scss": "sass --watch .\\src\\styles\\main.scss:.\\src\\styles\\main.css"
+  },
+  "author": "hritvik",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
