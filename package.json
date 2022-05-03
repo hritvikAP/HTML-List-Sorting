@@ -1,6 +1,6 @@
 {
   "name": "html-list-sorting",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "scripts": {
     "compile-scss": "sass --watch .\\src\\styles\\main.scss:.\\src\\styles\\main.css"
   },
